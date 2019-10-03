@@ -1,4 +1,4 @@
-# j-shop
+# j-shop - online t-shirt store
 
 ## Project setup
 ```
